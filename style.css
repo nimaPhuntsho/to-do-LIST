@@ -1,0 +1,13 @@
+body {
+}
+
+.task {
+  background-color: aliceblue;
+  border: 1px black;
+  border-radius: 10px;
+  width: 60%;
+  margin: 10px;
+  display: grid;
+  grid-template-columns: 80% 10% 10%;
+  gap: 10px;
+}
